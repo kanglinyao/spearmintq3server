@@ -1,6 +1,6 @@
 FROM ubuntu:latest as builder
 
-MAINTAINER coconutcracker v1.0
+MAINTAINER kanglinyao v1.0
 
 ## Update and install necessary tools
 
